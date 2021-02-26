@@ -68,7 +68,7 @@ section.filters button:hover {
     background-color: #FAFAFA;
     position: relative;
     bottom:-4px;
-    z-index: -1;
+    z-index: 1;
 }
 
 .popover li {
